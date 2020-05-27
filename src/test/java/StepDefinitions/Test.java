@@ -5,7 +5,6 @@ import java.util.Arrays;
 import java.util.Map;
 import java.util.Scanner;
 
-import com.gargoylesoftware.htmlunit.javascript.host.Symbol;
 
 import cucumber.api.java.de.Gegebensei;
 import gherkin.lexer.LexingError;

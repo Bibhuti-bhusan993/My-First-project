@@ -17,7 +17,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 
-import com.gargoylesoftware.htmlunit.javascript.host.Symbol;
+
 
 import junit.framework.Assert;
 

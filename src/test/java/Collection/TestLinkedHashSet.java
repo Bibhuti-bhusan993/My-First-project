@@ -3,7 +3,6 @@ package Collection;
 import java.util.Iterator;
 import java.util.LinkedHashSet;
 
-import net.sourceforge.htmlunit.corejs.javascript.ast.WhileLoop;
 
 public class TestLinkedHashSet {
 
@@ -19,6 +18,8 @@ public class TestLinkedHashSet {
 			String name = (String)it.next();
 			System.out.println(name);
 		}
+		System.out.println(hs);
+		hs.remove("30");
 		System.out.println(hs);
 
 	}

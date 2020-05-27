@@ -29,14 +29,20 @@ public class TestinkedList {
 		ll1.push(17);
 		System.out.println(ll1);
 		System.out.println(ll1.peek());
+		System.out.println(ll1);
 		System.out.println(ll1.peekFirst());
+		System.out.println(ll1);
 		System.out.println(ll1.peekLast());
+		System.out.println(ll1);
 		System.out.println(ll1.pop());
+		System.out.println(ll1);
 		System.out.println(ll1.poll());
+		System.out.println(ll1);
 		System.out.println(ll1.pop());
 		System.out.println(ll1);
 		System.out.println(ll1.pollFirst());
 		System.out.println(ll1.pollLast());
+		System.out.println(ll1);
 		
 		
 

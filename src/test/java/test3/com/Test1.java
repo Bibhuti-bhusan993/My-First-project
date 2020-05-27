@@ -9,11 +9,6 @@ import java.sql.Statement;
 import java.util.Arrays;
 import java.util.HashSet;
 
-import org.testng.annotations.BeforeClass;
-import org.testng.annotations.BeforeGroups;
-import org.testng.annotations.BeforeMethod;
-import org.testng.annotations.BeforeTest;
-import org.testng.annotations.Test;
 
 public class Test1 {
 	

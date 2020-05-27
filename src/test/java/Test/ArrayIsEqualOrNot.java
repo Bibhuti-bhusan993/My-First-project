@@ -1,7 +1,5 @@
 package Test;
 
-import org.apache.xalan.templates.ElemAttributeSet;
-
 public class ArrayIsEqualOrNot {
 
 	public static void main(String[] args) {

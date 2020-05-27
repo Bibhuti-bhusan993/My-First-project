@@ -4,7 +4,6 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
-import com.sun.jna.platform.win32.WinRas.RASTUNNELENDPOINT;
 
 public class RadioButton {
 
